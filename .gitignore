@@ -111,3 +111,5 @@ JUEGO_BASE/Library/
 JUEGO_BASE/Temp/
 JUEGO_BASE/Obj/
 JUEGO_BASE/Logs/
+*.zip
+*.psd
